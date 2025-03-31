@@ -1,0 +1,1 @@
+python egoblur/script/demo_ego_blur.py --lp_model_path ego_blur_assets/ego_blur_lp.jit --input_image_path ego_blur_assets/test_image.jpg --output_image_path ego_blur_assets/test_image_output.jpg --lp_model_score_threshold 0.9 --nms_iou_threshold 0.3 --scale_factor_detections 1
